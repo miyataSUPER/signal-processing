@@ -63,6 +63,4 @@
 - 各課題の提出期限は授業中に指定されます。
 - コードは可能な限りコメントを付けて、可読性を高めるようにしてください。
 
-## ライセンス
-Copyright (C) 2025 Kyoto Sangyo University. All rights reserved. 
 # signal-processing
